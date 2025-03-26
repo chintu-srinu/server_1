@@ -1,32 +1,39 @@
 {
-  "students": [
+  "users": [
     {
-      "id": "2",
-      "name": "Saikrishna"
+      "id": "bc91",
+      "username": "chintu",
+      "message": "hello"
     },
     {
-      "name": "Vinay Raju",
-      "id": "4"
+      "id": "8cd7",
+      "username": "srinu",
+      "message": "i love u"
     },
     {
-      "id": "5d2a",
-      "name": "Ramu"
+      "id": "2ac3",
+      "username": "pavan",
+      "message": "love u"
     },
     {
-      "id": "22c2",
-      "name": "Again"
+      "id": "ca95",
+      "username": "sweety",
+      "message": "love"
     },
     {
-      "id": "1802",
-      "name": "Alekhya"
+      "id": "d19f",
+      "username": "praveen",
+      "message": "980 marks"
     },
     {
-      "id": "84ba",
-      "name": "Ishwarya"
+      "id": "3725",
+      "username": {},
+      "message": {}
     },
     {
-      "id": "030a",
-      "name": "Sai Nath"
+      "id": "c1ba",
+      "username": "srinu",
+      "message": "chintu"
     }
   ]
 }
